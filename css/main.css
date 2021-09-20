@@ -833,7 +833,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 
     .jl-avatar-sobre {
-        position: relative;
+        margin-top: 420px;
         height: 430px;
     }
 
@@ -1699,7 +1699,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 
 .jl-img-responsive {
-    width: 100%;
+    margin-top: 1000px;
     max-width: 100%;
     height: auto;
     display: block;
@@ -1794,4 +1794,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 /* PLUGINS OVERWRITE */
 [data-aos=flip-left] {
     transform: perspective(2500px) rotateY(-90deg);
+}
+
+.teste{
+    display: flex;
+    width: 70%;   
+    float: right;
 }
