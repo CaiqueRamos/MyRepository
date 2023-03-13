@@ -422,7 +422,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }    
 
     .jl-contact-info {
-        width: 245px;
         height: 165px; 
         padding: 25px;
         position: fixed;
@@ -833,7 +832,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 
     .jl-avatar-sobre {
-        margin-top: 420px;
         height: 430px;
     }
 
