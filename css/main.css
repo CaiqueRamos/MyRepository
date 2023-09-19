@@ -1517,6 +1517,7 @@ label {
 
   .jl-navigator-counter span {
     font-size: 120px;
+    margin-left: 40px;
   }
   .jl-navigator-counter:before {
     width: 35px;
